@@ -6,4 +6,5 @@ Lib/
 ../.git/
 *.log
 ../.idea/workspace.xml
+.idea/
 
