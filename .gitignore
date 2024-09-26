@@ -1,0 +1,8 @@
+.venv/Scripts/
+.venv/share/
+.venv/pyvenv.cfg
+.idea/
+.venv/Lib/
+.git/
+
+
